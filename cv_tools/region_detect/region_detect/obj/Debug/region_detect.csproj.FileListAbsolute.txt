@@ -1,0 +1,9 @@
+F:\cv_tools\region_detect\region_detect\bin\Debug\region_detect.exe.config
+F:\cv_tools\region_detect\region_detect\bin\Debug\region_detect.exe
+F:\cv_tools\region_detect\region_detect\bin\Debug\region_detect.pdb
+F:\cv_tools\region_detect\region_detect\obj\Debug\region_detect.csprojResolveAssemblyReference.cache
+F:\cv_tools\region_detect\region_detect\obj\Debug\region_detect.Form1.resources
+F:\cv_tools\region_detect\region_detect\obj\Debug\region_detect.Properties.Resources.resources
+F:\cv_tools\region_detect\region_detect\obj\Debug\region_detect.csproj.GenerateResource.Cache
+F:\cv_tools\region_detect\region_detect\obj\Debug\region_detect.exe
+F:\cv_tools\region_detect\region_detect\obj\Debug\region_detect.pdb
